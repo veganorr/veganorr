@@ -20,8 +20,8 @@ Hi, i'm Pedro, a very passionate programmer located on Brasil, i study by myself
 - ⚡ Fun fact: i am a linux fanboy, and want to use terminal applications with suckless philosophy.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushiafk&theme=aura&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushiafk&layout=compact&langs_count=8&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushitaki&theme=aura&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushitaki&layout=compact&langs_count=8&theme=aura"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
