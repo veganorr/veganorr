@@ -5,7 +5,7 @@
   <a  href="https://discordapp.com/users/183935620203151370/" target="_blank">
     <img alt="Most used server" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" target="_blank">
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/suchitaki">
     <img alt="My Twitter" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://open.spotify.com/user/313z3ygw2qafakmpzgdmarvpexgi">
