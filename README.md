@@ -9,11 +9,9 @@
     <img alt="My Twitter" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://open.spotify.com/user/313z3ygw2qafakmpzgdmarvpexgi">
-    <img alt="My Spotify" alt="Abhishek's Spotify" width="60px" src="https://gist.githubusercontent.com/stephenbarkan/6d25c2517e987c4151fcbb4fcf8b3678/raw/eac206a628aa7d6de4ad33a070fe3f59edf0255f/spotify.svg" />
+    <img alt="My Spotify" alt="sushitaki's Spotify" width="65px" src="https://gist.githubusercontent.com/stephenbarkan/6d25c2517e987c4151fcbb4fcf8b3678/raw/eac206a628aa7d6de4ad33a070fe3f59edf0255f/spotify.svg" />
   </a>
 </div>
-
-//width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 
 Hi, i'm Pedro, a very passionate programmer located on Brasil, i study by myself and want to be an example of good programmer some day.
 
