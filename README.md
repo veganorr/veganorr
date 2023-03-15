@@ -1,6 +1,6 @@
 ### Hi there <img width="22px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
-<img align="right"  height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/51531895?v=4">
+<img align="right"  height="150" style="border-radius:50px;" src="https://media.alvanista.com/uploads/timeline_image/2015/05/23/medium_123804_1698082902.jpg">
 <div> 
   <a  href="https://discordapp.com/users/386933211810496512/" target="_blank">
     <img alt="Most used server" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" target="_blank">
